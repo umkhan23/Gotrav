@@ -40,3 +40,5 @@ Flags:
   Enter name of outfile
 
 ```
+### Future plans
+Currently, gotrav only features one directory traversal payload to test out. I plan to include multiple common payloads in the future to make gotrav a lot more versatile and effective than it is right now.

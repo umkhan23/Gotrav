@@ -61,7 +61,6 @@ func payloadTest(url string, path string) {
 }
 
 func main() {
-	banner()
 	//args
 	url := flag.String("u", "", "Enter a URL")
 	path := flag.String("p", "", "Enter the full path of the file you would like to find")
